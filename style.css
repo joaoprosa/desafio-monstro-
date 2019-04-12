@@ -1,0 +1,203 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+header{
+	width: 100%;
+	height: 768px;
+	background-image: url(assets/fundomain.png);
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+main{
+	background-image: url(assets/fotoheader.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	height: 900px;
+}
+footer{
+	background: black;
+	width: 100%;
+	height: 400px;
+}
+.menu{
+	background-color: black;
+	background-image: url(assets/batman2.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	position: fixed;
+	width: 100%;
+	height: 95px;
+	z-index: 1;
+}
+.logo{
+	margin-right: 600px;
+}
+.nav1, .nav2, .nav3 {
+	color: white;
+	font-size: 40px;
+	font-style: oblique;
+	font-style: italic;
+	display: inline-flex;
+	margin-top: -150px;
+	margin-left: 70px;
+}
+.section1{
+	position: absolute;
+	width: 600px;
+	height: 350px;
+	top: 400px;
+	left: 800px;
+	border-radius: 20px;
+}
+.titulodiv, .paragrafo{
+	color: white;
+	font-size: 30px;
+	font-style: italic;
+	font-style: oblique;
+	text-align: center;
+}
+.paragrafo{
+	font-size: 18px;
+	margin-top: 20px;
+}
+.caixamonstro{
+	background: black;
+	background-image: url(assets/caçador.png);
+	position: relative;
+	width: 1000px;
+	height: 600px;
+	top: 70px;
+	left: 200px;
+	border-radius: 10px;
+}
+.bloco{
+  background: #278801;
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  margin-top: 150px;
+  left: 200px;
+  border-radius: 30px;
+}
+.circulomeio{
+  background: white;
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  bottom: 180px;
+  left: 222px;
+  border-radius: 50%;
+}
+.barrasup, .barrainf{
+  background: #008B00;
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  bottom: 375px; 
+  left: 273px;
+  border-radius: 4px;
+}
+.barrainf{
+  bottom: 230px;
+}
+.anel{
+  background: #008B00;
+  position: absolute;
+  width: 135px;
+  height: 150px;
+  bottom: 240px;
+  left: 280px;
+  border-radius: 50%;
+}
+.centro{
+  background: white;
+  position: absolute;
+  width: 80px;
+  height: 110px;
+  bottom: 260px;
+  left: 307px;
+  border-radius: 50%;
+}
+.bloco2{
+  background: #348B0F;
+  display: inline-flex;
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  top: 150px;
+  left: 540px;
+  border-radius: 30px;
+}
+.circulo, .circulo2, .circulo3{
+  background: #FFD700;
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  top: 60px;
+  left: 55px;
+}
+.circulo2{
+  background: #EE0000;
+  width: 190px;
+  height: 190px;
+  left: 60px;
+  top: 65px;
+}
+.circulo3{
+  background: #008B00;
+  width: 185px;
+  height: 185px;
+  left: 62px;
+  top: 67.4px;
+}
+.linha, .linha1{
+  background: #EE0000;
+  position: absolute;
+  width: 25px;
+  height: 186px;
+  left: 140px;
+  top: 65px;
+  transform: rotate(40deg);
+}
+.linha1{
+  transform: rotate(140deg);
+  top: 68px;
+}
+.imagemfooter{
+	width: 400px;
+	height: 400px;
+}
+.tabela{
+	color: white;
+	font-size: 22px;
+	list-style: none; 
+	margin-top: -300px;
+	margin-left: 420px;
+}
+.links{
+	color: #1E90FF;
+	margin-top: 20px;
+}
+.input1{
+	width: 250px;
+	height: 20px;
+	color: white;
+	margin-left: 1100px;
+}
+.descriçao, .descriçao1{
+	color: #1E90FF;
+	font-style: italic;
+	font-size: 40px;
+	margin-top: -210px;
+	margin-left: 1100px;
+}
+.descriçao1{
+	font-size: 30px;
+	margin-top: 10px;
+
+}
+
